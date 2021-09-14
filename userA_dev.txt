@@ -5,3 +5,5 @@ userA가 DEV 네이버 로그인개발에 성공
 카카오 API 문서 학습 및 공유
 
 카카오 API postman 테스트
+
+memberController 141번 라인
